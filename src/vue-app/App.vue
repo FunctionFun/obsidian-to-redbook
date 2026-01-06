@@ -1,6 +1,6 @@
 <template>
   <div class="vue-obsidian-app">
-    <h2>Vue3 + Obsidian 插件测试ABC</h2>
+    <h2>Vue3 + Obsidian 插件</h2>
     <p>当前计数：{{ count }}</p>
     <button @click="increment">点击+1</button>
   </div>
