@@ -114,7 +114,7 @@ export default class MyPlugin extends Plugin {
 			const script = document.createElement('script');
 			
 			// 使用 Obsidian 的 API 获取插件目录路径
-			const pluginPath = this.app.vault.adapter.getResourcePath(`.obsidian/plugins/obsidian-vue-plugin-template/vue-app.iife.js`);
+			const pluginPath = this.app.vault.adapter.getResourcePath(`.obsidian/plugins/obsidian-to-redbook/vue-app.iife.js`);
 			script.src = pluginPath;
 			
 			script.onload = () => {

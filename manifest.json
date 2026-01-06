@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-vue-plugin-template",
-	"name": "Obsidian Vue Plugin Template",
+	"id": "obsidian-to-redbook",
+	"name": "Obsidian to RedBook",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Obsidian 插件开发模板，集成 Vue 3、TypeScript、Vite 和 esbuild",
+	"description": "一键将 Obsidian 中的 Markdown 笔记转换为小红书封面图片",
 	"author": "FunctionFun",
 	"authorUrl": "https://github.com/FunctionFun",
-	"fundingUrl": "https://github.com/FunctionFun/obsidian-vue-plugin-template",
+	"fundingUrl": "https://github.com/FunctionFun/obsidian-to-redbook",
 	"isDesktopOnly": true
 }
